@@ -1,0 +1,5 @@
+﻿配置指南:
+1.applicationContext.xml
+配置sentinel
+2.redis.properties
+配置redis密码
